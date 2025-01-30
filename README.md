@@ -1,5 +1,5 @@
 
-This Repo contains part of the work for the project for ELEC-E5510.
+This Repo contains part of the work for the project for ELEC-E5510, Aalto University.
 
 The Crowd-sourced Emotional Multimodal Actors Dataset (CREMA-D} is considered for this speech emotion recognition task, due to its diversity of subjects, ranging from race to age. It consists of 7,442 original clips from 91 actors. These clips were from 48 male and 43 female actors between the ages of 20 and 74 coming from a variety of races and ethnicities (African America, Asian, Caucasian, Hispanic, and Unspecified).
 
